@@ -13,7 +13,7 @@ website:
     left: "John Heaps 2024©"
     right: 
       - icon: linkedin
-        href: linkedin.com/in/johnheaps1
+        href: linkedin.com/in/johnheaps1/
 
   navbar:
     background: primary
